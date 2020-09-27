@@ -1,6 +1,6 @@
 ### Hi, I'm Aafaz 👋
 
-I am a self-driven and passionate data science graduate student from Indiana University. I love applying my analytical skills and solve real world problems to provide value for businesses. With more than one year of experience in the data science field working with data and having a curious eye for converting data into powerful insights to make data-driven solutions for the business, I am actively looking for full-time opportunities in the data analytics and data science field.
+I am a self-driven and passionate data science graduate student from Indiana University. I love applying my analytical skills and solve real world problems to provide value for businesses. I have more than one year of experience in the data science field working with data and having a curious eye for converting data into powerful insights to make data-driven solutions for the business.
 
 Currently working as a Data Science Intern at Resero Analytics, building executive dashboards and reports of clinical trial data in Tableau and building a machine learning model to predict the successful launch of a drug in the post-market and communicating analytical results to the stakeholders of the company.
 
