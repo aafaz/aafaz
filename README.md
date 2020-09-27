@@ -1,17 +1,17 @@
 ### Hi, I'm Aafaz 👋
 
-I am a self-driven and passionate data science graduate student from Indiana University. I love applying my analytical skills and solve real world problems to provide value for businesses. I have more than one year of experience in the data science field working with data and have a curious eye for converting data into powerful insights to make data-driven solutions for the business.
+► I am a self-driven and passionate data science graduate student from Indiana University. I love applying my analytical skills and solve real world problems to provide value for businesses. I have more than one year of experience in the data science field working with data and have a curious eye for converting data into powerful insights to make data-driven solutions for the business.
 
-Currently working as a Data Science Intern at Resero Analytics, building executive dashboards and reports of clinical trial data in Tableau and building a machine learning model to predict the successful launch of a drug in the post-market and communicating analytical results to the stakeholders of the company.
+► Currently working as a Data Science Intern at Resero Analytics, building executive dashboards and reports of clinical trial data in Tableau and building a machine learning model to predict the successful launch of a drug in the post-market and communicating analytical results to the stakeholders of the company.
 
-Data Science Projects done:
+► Data Science Projects done:
 1. Loan Prediction System for Banks
 2. Ozone Level Forecasting
 3. US COVID-19 Tracker
 4. Indy Archieve Document Classification
 5. Yudi J Youtube Channel Analysis
 
-You can connect me on  <a href="https://www.linkedin.com/in/aafazilahi/">LinkedIn</a> for any feedback or discussions.
+► You can connect me on  <a href="https://www.linkedin.com/in/aafazilahi/">LinkedIn</a> for any feedback or discussions.
 
 <!--
 **aafaz/aafaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
