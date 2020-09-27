@@ -7,7 +7,6 @@ Currently working as a Data Science Intern at Resero Analytics, building executi
 Technical Skills include:
 
 • Programming Languages: Python, R, C++, Java
-
 • Machine Learning: Supervised and Unsupervised
 • Data Visualization: Tableau, Matplotlib, Seaborn
 • Databases: MySQL, NoSQL, MongoDB
