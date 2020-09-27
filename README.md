@@ -11,7 +11,7 @@ Data Science Projects done:
 4. Indy Archieve Document Classification
 5. Yudi J Youtube Channel Analysis
 
-You can connect me on  <a href="https://www.linkedin.com/in/aafazilahi/">LinkedIn</a> for any feedback or discussions
+You can connect me on  <a href="https://www.linkedin.com/in/aafazilahi/">LinkedIn</a> for any feedback or discussions.
 
 <!--
 **aafaz/aafaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
