@@ -11,6 +11,10 @@
 
 ► Currently working as a Data Science Intern at Resero Analytics, building executive dashboards and reports of clinical trial data in Tableau and building a machine learning model to predict the successful launch of a drug in the post-market and communicating analytical results to the stakeholders of the company.
 
+►Certifications:
+1. Tableau Certified Desktop Specialist
+2. AWS Certified CLoud Practitioner
+
 ► You can connect me on  <a href="https://www.linkedin.com/in/aafazilahi/">LinkedIn</a> for any feedback or discussions.
 
 <!--
