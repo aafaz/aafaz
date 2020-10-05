@@ -13,7 +13,7 @@
 
 ►Certifications:
 1. Tableau Certified Desktop Specialist
-2. AWS Certified CLoud Practitioner
+2. AWS Certified Cloud Practitioner
 
 ► You can connect me on  <a href="https://www.linkedin.com/in/aafazilahi/">LinkedIn</a> for any feedback or discussions.
 
