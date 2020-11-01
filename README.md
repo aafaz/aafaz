@@ -9,7 +9,8 @@
 4. Indy Archieve Document Classification
 5. Yudi J Youtube Channel Analysis
 
-► Currently working as a Data Science Intern at Resero Analytics, building executive dashboards and reports of clinical trial data in Tableau and building a machine learning model to predict the successful launch of a drug in the post-market and communicating analytical results to the stakeholders of the company.
+► Work Experience:
+Currently working as a Data Science Intern at Resero Analytics, building executive dashboards and reports of clinical trial data in Tableau and building a machine learning model to predict the successful launch of a drug in the post-market and communicating analytical results to the stakeholders of the company.
 
 ►Certifications:
 1. Tableau Certified Desktop Specialist
