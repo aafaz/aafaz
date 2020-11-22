@@ -5,7 +5,7 @@
 ► Data Science Projects done:
 1. Loan Prediction System for Banks
 2. Ozone Level Forecasting
-3. US COVID-19 Tracker
+3. <a href="https://github.com/aafaz/US-Covid-19-Tracker">US COVID-19 Tracker </a>
 4. Indy Archieve Document Classification
 5. Yudi J Youtube Channel Analysis
 
