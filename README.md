@@ -1,6 +1,7 @@
 ### Hi, I'm Aafaz Ilahi! 
 
 ► I am a self-driven and passionate data science graduate student from Indiana University. I love applying my analytical skills and solve real world problems to provide value for businesses. 
+
 ► I have more than one year of experience in the data science field working with data and have a curious eye for converting data into powerful insights to make data-driven solutions for the business.
 
 ► Data Science Projects done:
