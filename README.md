@@ -4,18 +4,18 @@
 
 ► I have more than one year of experience in the data science field working with data and have a curious eye for converting data into powerful insights to make data-driven solutions for the business.
 
-► <b>Data Science Projects done: <b>
+► <b>Data Science Projects done: </b>
 1. <a href="https://github.com/aafaz/US-Covid-19-Tracker">US COVID-19 Tracker </a> 
 2. <a href="https://github.com/aafaz/Loan-Prediction">Loan Prediction System for Banks </a>
 3. Ozone Level Forecasting 
 4. Indy Archieve Document Classification
 5. Yudi J Youtube Channel Analysis
 
-► Work Experience:
+► <b> Work Experience: </b>
 
 Currently working as a Data Science Intern at Resero Analytics, building executive dashboards and reports of clinical trial data in Tableau and building a machine learning model to predict the successful launch of a drug in the post-market and communicating analytical results to the stakeholders of the company.
 
-►Certifications:
+► <b> Certifications: </b>
 1. Tableau Certified Desktop Specialist
 2. AWS Certified Cloud Practitioner
 
