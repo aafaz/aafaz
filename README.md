@@ -5,9 +5,9 @@
 ► I have more than one year of experience in the data science field working with data and have a curious eye for converting data into powerful insights to make data-driven solutions for the business.
 
 ► <b>Data Science Projects done: </b>
-1. <a href="https://github.com/aafaz/US-Covid-19-Tracker">US COVID-19 Tracker </a> 
-2. <a href="https://github.com/aafaz/Loan-Prediction">Loan Prediction System for Banks </a>
-3. <a href="https://github.com/aafaz/Indy-Archieve-Document-Classification">Indy Archieve Document Classification </a> 
+1. <a href="https://github.com/aafaz/US-Covid-19-Tracker [See Project]">US COVID-19 Tracker </a> 
+2. <a href="https://github.com/aafaz/Loan-Prediction [See Project]">Loan Prediction System for Banks </a>
+3. <a href="https://github.com/aafaz/Indy-Archieve-Document-Classification [See Project]">Indy Archieve Document Classification </a> 
 4. Ozone Level Forecasting 
 5. Yudi J Youtube Channel Analysis
 
