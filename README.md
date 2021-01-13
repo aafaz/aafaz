@@ -7,7 +7,7 @@
 ► <b>Data Science Projects done: </b>
 1. <a href="https://github.com/aafaz/US-Covid-19-Tracker">US COVID-19 Tracker [See Project]</a> 
 2. <a href="https://github.com/aafaz/Loan-Prediction">Loan Prediction System for Banks [See Project] </a>
-3. <a href="https://github.com/aafaz/Indy-Archieve-Document-Classification">Indy Archieve Document Classification [See Project]</a> 
+3. <a href="https://github.com/aafaz/Indy-Archieve-Document-Classification">Indy Archive Document Classification [See Project]</a> 
 4. Ozone Level Forecasting 
 5. Yudi J Youtube Channel Analysis
 
