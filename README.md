@@ -5,7 +5,7 @@
 ► I have more than one year of experience in the data science field working with data and have a curious eye for converting data into powerful insights to make data-driven solutions for the business.
 
 ► <b>Data Science Projects done: </b>
-1. <a href="https://github.com/aafaz/US-Covid-19-Tracker">US COVID-19 Tracker [See Project]</a> 
+1. <b><a href="https://github.com/aafaz/US-Covid-19-Tracker">US COVID-19 Tracker [See Project]</a> </b>
 2. <a href="https://github.com/aafaz/Loan-Prediction">Loan Prediction System for Banks [See Project] </a>
 3. <a href="https://github.com/aafaz/Indy-Archieve-Document-Classification">Indy Archive Document Classification [See Project]</a> 
 4. Ozone Level Forecasting 
