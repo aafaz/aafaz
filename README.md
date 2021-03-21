@@ -13,7 +13,7 @@
 
 ► <b> Work Experience: </b>
 
-Currently working as a Data Science Intern at Resero Analytics, building executive dashboards and reports of clinical trial data in Tableau and building a machine learning model to predict the successful launch of a drug in the post-market and communicating analytical results to the stakeholders of the company.
+Currently working as a Data Science Intern at a financial company Navient, building executive dashboards and reports of IVR calls for the business intelligence team and building a machine learning model to predict the customer call volumes and communicating analytical results to the stakeholders of the company.
 
 ► <b> Certifications: </b>
 1. Tableau Certified Desktop Specialist
