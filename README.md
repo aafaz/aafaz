@@ -2,25 +2,10 @@
 
 ► My expertise extends to developing AI strategies for Fortune 500 companies, where I focus on creating value through innovation and efficiency. I am adept at translating complex AI concepts into actionable business initiatives, ensuring that AI investments align with organizational goals. My work has led to breakthroughs in predictive analytics, resulting in significant cost savings and revenue growth for clients.
 
-► <b>Data Science Projects done: </b>
-1. <b><a href="https://github.com/aafaz/US-Covid-19-Tracker">US COVID-19 Tracker [See Project]</a> </b>
-2. <b><a href="https://github.com/aafaz/Loan-Prediction">Loan Prediction System for Banks [See Project] </a></b>
-3. <b><a href="https://github.com/aafaz/Indy-Archieve-Document-Classification">Indy Archive Document Classification [See Project]</a></b> 
-4. Ozone Level Forecasting 
-5. Yudi J Youtube Channel Analysis
-
-► <b>Our Projects: </b>
+► <b>AI Portfolio Projects: </b>
 1. <b><a href="https://aafazai.com/therapychat/">TherapyChat: Your AI Mental Health Companion [See Project]</a> </b>
 2. <b><a href="https://aafazai.com/document-gpt/">DocumentGPT: Revolutionizing Document Interaction with AI [See Project]</a> </b>
 3. <b><a href="https://aafazai.com/compliance-bot/">ComplianceBot: Identify the pharma compliance in real time [See Project]</a> </b> 
-
-► <b> Work Experience: </b>
-
-Currently working as a Data Science Intern at a financial company Navient, building executive dashboards and reports of IVR calls for the business intelligence team and building a machine learning model to predict the customer call volumes and communicating analytical results to the stakeholders of the company.
-
-► <b> Certifications: </b>
-1. Tableau Certified Desktop Specialist
-2. AWS Certified Cloud Practitioner
 
 ► You can connect me on <b><a href="https://aafazai.com/services"> aafazai.com</a> </b> my portfolio website
 
