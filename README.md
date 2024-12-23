@@ -11,11 +11,11 @@
 
 ► <b>Our Projects: </b>
 
-1.<b><a href="https://aafazai.com/therapychat/">TherapyChat: Your AI Mental Health Companion.</a> </b>
+1.<b><a href="https://aafazai.com/therapychat/">TherapyChat: Your AI Mental Health Companion</a> </b>
 
-2.<b><a href="https://aafazai.com/document-gpt/">DocumentGPT: Revolutionizing Document Interaction with AI. </a></b>
+2.<b><a href="https://aafazai.com/document-gpt/">DocumentGPT: Revolutionizing Document Interaction with AI </a></b>
 
-3.<b><a href="https://aafazai.com/compliance-bot/">ComplianceBot: Identify the pharma compliance in real time.</a></b> 
+3.<b><a href="https://aafazai.com/compliance-bot/">ComplianceBot: Identify the pharma compliance in real time</a></b> 
 
 ► <b> Work Experience: </b>
 
