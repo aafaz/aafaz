@@ -1,5 +1,3 @@
-### Hi, I'm Aafaz Ilahi! 
-
 ► I am an AI Consultant who thrives on tackling challenging business problems with cutting-edge artificial intelligence solutions. With a strong foundation in machine learning and statistics, I'm passionate about developing and implementing AI systems that enhance decision-making and operational efficiency.
 
 ► My expertise extends to developing AI strategies for Fortune 500 companies, where I focus on creating value through innovation and efficiency. I am adept at translating complex AI concepts into actionable business initiatives, ensuring that AI investments align with organizational goals. My work has led to breakthroughs in predictive analytics, resulting in significant cost savings and revenue growth for clients.
@@ -12,7 +10,7 @@
 5. Yudi J Youtube Channel Analysis
 
 ► <b>Our Projects: </b>
-1.
+1.<b><a href="https://aafazai.com/therapychat/">TherapyChat: Your AI Mental Health Companion</a> </b>
 ► <b> Work Experience: </b>
 
 Currently working as a Data Science Intern at a financial company Navient, building executive dashboards and reports of IVR calls for the business intelligence team and building a machine learning model to predict the customer call volumes and communicating analytical results to the stakeholders of the company.
