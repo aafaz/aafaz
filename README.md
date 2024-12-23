@@ -22,7 +22,7 @@ Currently working as a Data Science Intern at a financial company Navient, build
 1. Tableau Certified Desktop Specialist
 2. AWS Certified Cloud Practitioner
 
-► You can connect me on <a href="https://aafazai.com/services></a> on my portfolio website
+► You can connect me on <b><a href="https://aafazai.com/services"> aafazai.com</a> </b> my portfolio website
 
 <!--
 **aafaz/aafaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
