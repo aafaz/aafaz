@@ -11,6 +11,8 @@
 4. Ozone Level Forecasting 
 5. Yudi J Youtube Channel Analysis
 
+► <b>Our Projects: </b>
+1.
 ► <b> Work Experience: </b>
 
 Currently working as a Data Science Intern at a financial company Navient, building executive dashboards and reports of IVR calls for the business intelligence team and building a machine learning model to predict the customer call volumes and communicating analytical results to the stakeholders of the company.
