@@ -1,8 +1,8 @@
 ### Hi, I'm Aafaz Ilahi! 
 
-► I am a self-driven and passionate data science graduate student from Indiana University. I love applying my analytical skills and solve real world problems to provide value for businesses. 
+► I am an AI Consultant who thrives on tackling challenging business problems with cutting-edge artificial intelligence solutions. With a strong foundation in machine learning and statistics, I'm passionate about developing and implementing AI systems that enhance decision-making and operational efficiency.
 
-► I have more than one year of experience in the data science field working with data and have a curious eye for converting data into powerful insights to make data-driven solutions for the business.
+► My expertise extends to developing AI strategies for Fortune 500 companies, where I focus on creating value through innovation and efficiency. I am adept at translating complex AI concepts into actionable business initiatives, ensuring that AI investments align with organizational goals. My work has led to breakthroughs in predictive analytics, resulting in significant cost savings and revenue growth for clients.
 
 ► <b>Data Science Projects done: </b>
 1. <b><a href="https://github.com/aafaz/US-Covid-19-Tracker">US COVID-19 Tracker [See Project]</a> </b>
