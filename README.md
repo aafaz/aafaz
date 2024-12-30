@@ -1,4 +1,6 @@
-► I am an AI Consultant who thrives on tackling challenging business problems with cutting-edge artificial intelligence solutions. With a strong foundation in machine learning and statistics, I'm passionate about developing and implementing AI systems that enhance decision-making and operational efficiency.
+► I am an AI Consultant who thrives on tackling challenging business problems with cutting-edge artificial intelligence solutions. 
+
+► With a strong foundation in machine learning and statistics, I'm passionate about developing and implementing AI systems that enhance decision-making and operational efficiency.
 
 ► My expertise extends to developing AI strategies for Fortune 500 companies, where I focus on creating value through innovation and efficiency. I am adept at translating complex AI concepts into actionable business initiatives, ensuring that AI investments align with organizational goals. My work has led to breakthroughs in predictive analytics, resulting in significant cost savings and revenue growth for clients.
 
@@ -6,8 +8,6 @@
 1. <b><a href="https://aafazai.com/therapychat/">TherapyChat: Your AI Mental Health Companion [See Project]</a> </b>
 2. <b><a href="https://aafazai.com/document-gpt/">DocumentGPT: Revolutionizing Document Interaction with AI [See Project]</a> </b>
 3. <b><a href="https://aafazai.com/compliance-bot/">ComplianceBot: Identify the pharma compliance in real time [See Project]</a> </b> 
-
-► You can connect me on <b><a href="https://aafazai.com/services"> aafazai.com</a> </b> my portfolio website
 
 <!--
 **aafaz/aafaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-► I am committed to staying at the forefront of AI advancements, regularly participating in conferences and contributing to research publications. I am always looking to connect with AI enthusiasts and data science professionals on LinkedIn.
+► I am committed to staying at the forefront of AI advancements, regularly participating in conferences and contributing to research publications. I am always looking to connect with AI enthusiasts and data science professionals. You can connect with me on <b><a href="https://www.linkedin.com/in/aafazilahi/"> LinkedIn or my portfolio website <b><a href="https://aafazai.com/services"> my portfolio website</a> </b> 
